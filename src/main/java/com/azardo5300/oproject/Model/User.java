@@ -1,4 +1,4 @@
-package com.azardo5300.oproject.Entity;
+package com.azardo5300.oproject.Model;
 
 public class User {
 @Entity
